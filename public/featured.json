@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Vanilla Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2016/08/homemade-vanilla-cupcakes-with-vanilla-buttercream-1024x1536.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Brown Sugar Butterscotch Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/brown-sugar-butterscotch-cupcakes/"
+    },
+    {
+      "id": 3,
+      "name": "Apple Cupcakes with Salted Caramel Frosting",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2022/09/salted-caramel-frosting-on-apple-spice-cupcake-1024x1536.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Red Velet Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2014/10/Red-Velvet-Cupcakes-6.jpg"
+    }
+  ]

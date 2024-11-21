@@ -1,0 +1,72 @@
+/* Page Background and Font Styling */
+body {
+    background-color: #ffd1dc;
+    /* Soft pink background */
+    font-family: 'Poppins', sans-serif;
+    color: #40e0d0;
+    /* Turquoise text */
+}
+
+h1,
+h2,
+h5,
+.navbar-brand,
+.product-title {
+    font-family: 'Pacifico', cursive;
+    /* Cute font for headers */
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+    color: #40e0d0;
+    /* Turquoise text */
+}
+
+.hero-section {
+    background-image: url('cupcake-banner.jpg');
+    /* Replace with an actual image URL */
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+    text-align: center;
+    color: #ffd1dc;
+    /* Soft pink */
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fff;
+    /* White text for hero section */
+}
+
+.product-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 8px;
+}
+
+.product-title {
+    font-size: 1.25rem;
+    color: #40e0d0;
+}
+
+.btn-primary {
+    background-color: #40e0d0;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #36c2b1;
+}
+
+.footer {
+    background-color: #40e0d0;
+    color: #ffd1dc;
+    padding: 20px 0;
+}
+
+.footer a {
+    color: #ffd1dc;
+    text-decoration: none;
+}

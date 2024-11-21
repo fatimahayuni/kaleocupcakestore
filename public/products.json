@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Cinnamon-Swirl Snickerdoodle Cupcakes ",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2013/10/cinnamon-swirl-snickerdoodle-cupcakes-2-1024x1536.jpg",
+      "description": "Cinnamon-sugar-swirled vanilla cupcakes topped with creamy cinnamon-swirled frosting… these snickerdoodle cupcakes always get rave reviews. "
+    },
+    {
+      "id": 2,
+      "name": "Pumpkin Spice Cupcakes with Marshmallow Frosting",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2014/11/Spiced-Pumpkin-Cupcakes-with-fluffy-marshmallow-frosting.jpg",
+      "description": "These easy, homemade chai latte cupcakes combine deliciously warm chai spices like cinnamon, cardamom, and ginger with soft and fluffy cupcakes. Topped with my chai spice buttercream, it’s the ultimate coffeehouse-inspired treat."
+    },
+    {
+      "id": 3,
+      "name": "Peppermint Mocha Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2013/11/delicious-peppermint-mocha-cupcakes-1024x1536.jpg",
+      "description": "Deep chocolate cupcakes flavored with peppermint and coffee, topped with peppermint vanilla frosting, candy canes, and a chocolate drizzle."
+    },
+    {
+      "id": 4,
+      "name": "Confetti Sprinkle Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2019/03/sprinkle-cupcakes-with-vanilla-buttercream-1024x1536.jpg",
+      "description": "Maintaining all the flavor from my favorite vanilla cupcakes, these confetti cupcakes are soft, fluffy, and extra moist. Creamy vanilla buttercream and extra sprinkles are the perfect finishing touch"
+    },
+    {
+      "id": 5,
+      "name": "S’mores Brownie Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2017/08/smores-brownie-cupcakes-2.jpg",
+      "description": "Completely from scratch s’mores brownie cupcakes feature a thick graham cracker crust, undeniably fudgy brownie center, and toasty marshmallow frosting."
+    }
+  ]
